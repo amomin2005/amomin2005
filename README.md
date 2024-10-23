@@ -1,6 +1,6 @@
 - Hello, I’m Aarez Ali Momin
 - Currently looking for an Internship
-- Currently majoring in Bachelors of Science in Computer Science
+- Majoring in Bachelors of Science in Computer Science
 - You can reach me at aarez.momin111@gmail.com or https://www.linkedin.com/in/aarez-momin/
 
 <!---
