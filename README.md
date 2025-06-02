@@ -4,7 +4,7 @@
 - Looking for Fall 2025 Internship
   
 ## Contact
-- Portfolio Website: https://aarezalimomin.com/
+- Portfolio: https://aarezalimomin.com/
 - Contact: aarez.momin111@gmail.com or https://www.linkedin.com/in/aarez-momin/
 
 ##### Languages
