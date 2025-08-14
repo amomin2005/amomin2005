@@ -1,7 +1,7 @@
 ## Hello, I’m Aarez Ali Momin
 - Senior at The University of Texas at Dallas
 - Majoring in Bachelors of Science in Computer Science
-- Looking for Fall 2025 Internship
+- Looking for 2026 New Grad Tech Roles
   
 ## Contact
 - Portfolio: https://aarezalimomin.com/
