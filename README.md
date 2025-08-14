@@ -1,6 +1,5 @@
 ## Hello, I’m Aarez Ali Momin
-- Senior at The University of Texas at Dallas | SWE Intern @ FourHands
-- Majoring in Bachelors of Science in Computer Science
+- UT Dallas Computer Science | SWE Intern @ FourHands | Graduating May 2026  
 - Looking for 2026 New Grad Tech Roles
   
 ## Contact
